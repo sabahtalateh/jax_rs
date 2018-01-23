@@ -1,0 +1,4 @@
+.idea
+/jax-rs/target/
+/target/
+/jxr-rs.iml
