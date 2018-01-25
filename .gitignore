@@ -1,4 +1,3 @@
 .idea
-/jax-rs/target/
+/jax_rs.iml
 /target/
-/jxr-rs.iml
